@@ -20,7 +20,7 @@
 - 国際交流センター短期留学プログラム履修
 
 # 🌍어학성적
-- TOEIC SPIKING 120 (IM2)
+- TOEIC Spiking 120 (Intermediate Mid 2)
 - JLPT N2
 
 # 🪪취득 자격증
