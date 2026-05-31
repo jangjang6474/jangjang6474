@@ -11,7 +11,7 @@
 # 📈 프로젝트 경험
 | 일자 | 프로젝트명 | 링크 |
 | ----- | ----- | ----- |
-| 2026.05 | IMBK 머신러닝 모델 자유주제 프로젝트 | https://www.gogle.com |
+| 2026.05 | IMBK 딥러닝 모델 자유주제 프로젝트 | [https://www.gogle.com](https://github.com/jangjang6474/iMBK8-DLproject-hyetaek) |
 | 2026.05 | IMBK 머신러닝 모델 자유주제 프로젝트 | 링크 추가 예정 |
 | 2026.04 |IMBK 통계학 기반 프로젝트 | 링크 추가 예정 |
 | 2024.06 ~ 11 | 두끼DOOKKI (Marketing Project) | 링크 추가 예정 |
