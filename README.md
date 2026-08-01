@@ -14,7 +14,7 @@
 | 일자 | 프로젝트명 | 링크 |
 | ----- | ----- | ----- |
 | 2026.07 | IMBK 금융 데이터 기반 최종 프로젝트| [Final_Project](https://github.com/jangjang6474/Final_project) , [(Nothion)](https://www.notion.so/RM-3af5b6ec79c8802282f7cf8f50f7d927?source=copy_link)|
-| 2026.06 | IMBK 정형 데이터 기반 ML&DL 자유 프로젝트| [Notion](https://app.notion.com/p/iMBK8-ML-DL-3765b6ec79c880c7a54beed4a12ed598?source=copy_link) |
+| 2026.06 | IMBK 정형 데이터 기반 ML&DL 자유 프로젝트| [(Notion)](https://app.notion.com/p/iMBK8-ML-DL-3765b6ec79c880c7a54beed4a12ed598?source=copy_link) |
 | 2026.05 | IMBK 딥러닝 모델 자유주제 프로젝트 | [iMBK8-DLproject-hyetaek](https://github.com/jangjang6474/iMBK8-DLproject-hyetaek) , [(Notion)](https://www.notion.so/iMBK8-3725b6ec79c881398e65c2775fc0835b?source=copy_link)|
 | 2026.05 | IMBK 머신러닝 모델 자유주제 프로젝트 | [(Notion)](https://www.notion.so/iMBK8-ML-34c5b6ec79c88033ad16f93740751c16?source=copy_link) |
 | 2026.04 |IMBK 통계학 기반 프로젝트 | [(Notion)](https://www.notion.so/iMBK8-3105b6ec79c880738684c30ddedb0da4?source=copy_link) |
