@@ -7,69 +7,6 @@
 - 모델 결과를 UX, 업무 흐름, 실행 전략으로 연결합니다.
 - 분석 과정과 의사결정을 문서화하며 협업합니다.
 
----
-
-## Main Projects
-
-### RM 코파일럿 · 법인 고객 맞춤형 마케팅 전략 서비스
-
-법인 고객의 지속적인 거래 약화 신호를 정의하고, 고객가치에 따라 RM의 관리 우선순위와 접촉 전략을 제안하는 프로젝트입니다.
-
-| 항목 | 내용 |
-| --- | --- |
-| 기간 | 2026.07.03 — 2026.07.29 |
-| 핵심 역할 | UX · 서비스 기획 · 모델 파이프라인 |
-| 기여도 | 60% |
-| 핵심 성과 | RM 코파일럿 프로토타입 구현 · PR-AUC 0.4105 · 위험군 특성 사후분석 |
-
-- 36개월 금융 데이터를 활용한 법인 고객 거래 약화 이벤트 정의
-- 고객가치 기반 CRM 우선순위와 RM 업무 흐름 설계
-- 분석 결과와 상담 전략을 연결하는 서비스 프로토타입 구현
-- 사후 정보를 학습 변수와 분리하고 모델 결과의 해석 범위를 명시
-
-`Python` · `Pandas` · `scikit-learn` · `LightGBM` · `SHAP` · `Service UX`
-
-[GitHub Repository](https://github.com/jangjang6474/Final_project) · [상세 페이지 (Notion)](https://www.notion.so/RM-3af5b6ec79c8802282f7cf8f50f7d927?source=copy_link)
-
-### 법인금융 온라인 활성화 타깃 전략
-
-법인 고객의 금융 활동 패턴을 분석해 온라인 활성 가능성이 높은 고객군을 찾고, 군집별 행동 특성을 마케팅 전략으로 연결한 ML/DL 프로젝트입니다.
-
-| 항목 | 내용 |
-| --- | --- |
-| 기간 | 2026.06.15 — 2026.06.25 |
-| 핵심 역할 | PM · 분석 기획 · 전처리 · 사후분석 |
-| 기여도 | 70% |
-| 핵심 성과 | 23개 군집에서 온라인 활성 가능성이 높은 핵심 우량 타깃 도출 |
-
-- 정형 금융 데이터 전처리 및 탐색적 데이터 분석
-- 머신러닝·딥러닝 모델 비교와 타깃 고객군 선별
-- SHAP과 고객 단위 waterfall 분석을 활용한 결과 해석
-- 군집별 특성을 바탕으로 온라인 활성화 접점 전략 제안
-
-`Python` · `ML/DL` · `Clustering` · `SHAP` · `PyTorch`
-
-[상세 페이지 (Notion)](https://app.notion.com/p/iMBK8-ML-DL-3765b6ec79c880c7a54beed4a12ed598?source=copy_link)
-
----
-
-## Project Experience
-
-메인 프로젝트를 제외한 iM Digital Banker Academy 프로젝트입니다. 프로젝트명은 각 발표자료의 표지 제목을 기준으로 정리했습니다.
-
-| 기간 | 프로젝트명 | 링크 |
-| --- | --- | --- |
-| 2026.05.14 — 2026.05.28 | 사회초년생 조건 기반 금융상품 추천 및 안내 LLM 챗봇 | [GitHub Repository](https://github.com/jangjang6474/iMBK8-DLproject-hyetaek) · [상세 페이지 (Notion)](https://www.notion.so/iMBK8-3725b6ec79c881398e65c2775fc0835b?source=copy_link) |
-| 2026.04.13 — 2026.04.23 | 지역별 여신수요 요인분석 ML 모델링 프로젝트 | [상세 페이지 (Notion)](https://www.notion.so/iMBK8-ML-34c5b6ec79c88033ad16f93740751c16?source=copy_link) |
-| 2026.03.16 — 2026.03.27 | 데이터 기반 법인금융 핀셋 타겟팅 전략 | [상세 페이지 (Notion)](https://www.notion.so/iMBK8-3105b6ec79c880738684c30ddedb0da4?source=copy_link) |
-
----
-
-## Links
-
-- GitHub · [github.com/jangjang6474](https://github.com/jangjang6474)
-- Portfolio · 공개 주소 정리 후 추가 예정
-
 
 ---
 
@@ -130,6 +67,66 @@
 - 브랜드기획자 1급 `2024.10.04`
 - 식품가공기능사 `2023.09.13`
 - 자동차운전면허 1종 보통 `2020.02.10`
+
+---
+
+## Main Projects
+
+### RM 코파일럿 · 법인 고객 맞춤형 마케팅 전략 서비스 [GitHub Repository](https://github.com/jangjang6474/Final_project) · [상세 페이지 (Notion)](https://www.notion.so/RM-3af5b6ec79c8802282f7cf8f50f7d927?source=copy_link)
+
+법인 고객의 지속적인 거래 약화 신호를 정의하고, 고객가치에 따라 RM의 관리 우선순위와 접촉 전략을 제안하는 프로젝트입니다.
+
+| 항목 | 내용 |
+| --- | --- |
+| 기간 | 2026.07.03 — 2026.07.29 |
+| 핵심 역할 | UX · 서비스 기획 · 모델 파이프라인 |
+| 기여도 | 60% |
+| 핵심 성과 | RM 코파일럿 프로토타입 구현 · PR-AUC 0.4105 · 위험군 특성 사후분석 |
+
+- 36개월 금융 데이터를 활용한 법인 고객 거래 약화 이벤트 정의
+- 고객가치 기반 CRM 우선순위와 RM 업무 흐름 설계
+- 분석 결과와 상담 전략을 연결하는 서비스 프로토타입 구현
+- 사후 정보를 학습 변수와 분리하고 모델 결과의 해석 범위를 명시
+
+`Python` · `Pandas` · `scikit-learn` · `LightGBM` · `SHAP` · `Service UX`
+
+
+### 법인금융 온라인 활성화 타깃 전략 [상세 페이지 (Notion)](https://app.notion.com/p/iMBK8-ML-DL-3765b6ec79c880c7a54beed4a12ed598?source=copy_link)
+
+법인 고객의 금융 활동 패턴을 분석해 온라인 활성 가능성이 높은 고객군을 찾고, 군집별 행동 특성을 마케팅 전략으로 연결한 ML/DL 프로젝트입니다.
+
+| 항목 | 내용 |
+| --- | --- |
+| 기간 | 2026.06.15 — 2026.06.25 |
+| 핵심 역할 | PM · 분석 기획 · 전처리 · 사후분석 |
+| 기여도 | 70% |
+| 핵심 성과 | 23개 군집에서 온라인 활성 가능성이 높은 핵심 우량 타깃 도출 |
+
+- 정형 금융 데이터 전처리 및 탐색적 데이터 분석
+- 머신러닝·딥러닝 모델 비교와 타깃 고객군 선별
+- SHAP과 고객 단위 waterfall 분석을 활용한 결과 해석
+- 군집별 특성을 바탕으로 온라인 활성화 접점 전략 제안
+
+`Python` · `ML/DL` · `Clustering` · `SHAP` · `PyTorch`
+
+---
+
+## Project Experience
+
+메인 프로젝트를 제외한 iM Digital Banker Academy 프로젝트입니다. 프로젝트명은 각 발표자료의 표지 제목을 기준으로 정리했습니다.
+
+| 기간 | 프로젝트명 | 링크 |
+| --- | --- | --- |
+| 2026.05.14 — 2026.05.28 | 사회초년생 조건 기반 금융상품 추천 및 안내 LLM 챗봇 | [GitHub Repository](https://github.com/jangjang6474/iMBK8-DLproject-hyetaek) · [상세 페이지 (Notion)](https://www.notion.so/iMBK8-3725b6ec79c881398e65c2775fc0835b?source=copy_link) |
+| 2026.04.13 — 2026.04.23 | 지역별 여신수요 요인분석 ML 모델링 프로젝트 | [상세 페이지 (Notion)](https://www.notion.so/iMBK8-ML-34c5b6ec79c88033ad16f93740751c16?source=copy_link) |
+| 2026.03.16 — 2026.03.27 | 데이터 기반 법인금융 핀셋 타겟팅 전략 | [상세 페이지 (Notion)](https://www.notion.so/iMBK8-3105b6ec79c880738684c30ddedb0da4?source=copy_link) |
+
+---
+
+## Links
+
+- GitHub · [github.com/jangjang6474](https://github.com/jangjang6474)
+- Portfolio · 공개 주소 정리 후 추가 예정
 
 ---
 
